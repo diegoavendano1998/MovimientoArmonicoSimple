@@ -1,0 +1,20 @@
+generated-with: Easy Java/Javascript Simulations, version 5.2, build 161123. Visit http://www.um.es/fem/Ejs
+title: Mass and Spring with Accelerometer
+logo-image: SHOHorizontalWithAccelerometer/MassAndSpringWithAccelerometer.png
+author: Wolfgang Christian
+copyright: Wolfgang Christian
+preferred-width: 800
+preferred-height: 600
+author-image: images/WC_logo.png
+source: SHOHorizontalWithAccelerometer.ejss
+main-script: SHOHorizontalWithAccelerometer_Simulation.js
+main-simulation: SHOHorizontalWithAccelerometer_Simulation.xhtml
+available-languages: 
+html-contents: SHOHorizontalWithAccelerometer_Contents.xhtml
+html-main: SHOHorizontalWithAccelerometer.xhtml
+page-title: Mass and Spring with Accelerometer
+page-index: SHOHorizontalWithAccelerometer_Simulation.xhtml
+resource: images/WC_logo.png
+resource: SHOHorizontalWithAccelerometer/MassAndSpringWithAccelerometer.png
+resource: SHOHorizontalWithAccelerometer/SHOHorizontalWithAccelerometer.xhtml
+resource: ejss.css
